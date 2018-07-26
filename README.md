@@ -5,7 +5,7 @@ vue-toast插件测试
 ###Install:
 
 ```aidl
-npm install vue2-toast -S
+npm install sl-toast --save-dev
 ```
 
 ###Import:
