@@ -1,0 +1,19 @@
+{
+  "name": "sl-toast",
+  "version": "1.0.1",
+  "description": "vue-toast插件测试",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slorder/vue-toast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slorder/vue-toast/issues"
+  },
+  "homepage": "https://github.com/slorder/vue-toast#readme"
+}
