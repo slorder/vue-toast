@@ -12,7 +12,7 @@ npm install sl-toast --save-dev
 
 ```aidl
 import 'vue2-toast/lib/toast.css';
-import Toast from 'vue2-toast';
+import Toast from 'sl-toast';
 Vue.use(Toast);
 ```
 
